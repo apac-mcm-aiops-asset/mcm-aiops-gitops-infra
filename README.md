@@ -1,4 +1,10 @@
-# Catalog of Infrastructure Resources
+# Note 💡
+
+This repository has been archived and will no-longer be maintained.
+
+You can find it's new location at : https://github.com/one-touch-provisioning/otp-gitops-infra
+
+## Catalog of Infrastructure Resources
 
 This git repository serves as a library of infrastructure related and clusterwide resources for the [MCM AIOps Asset](https://github.com/apac-mcm-aiops-asset/mcm-aiops-gitops).  The resources are plain YAMLs or YAMLs pacakged as a Helm Chart and can be referenced by ArgoCD Applications.  
 
